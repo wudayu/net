@@ -1,2 +1,2 @@
 # net
-net is net
+net is about my social networking
